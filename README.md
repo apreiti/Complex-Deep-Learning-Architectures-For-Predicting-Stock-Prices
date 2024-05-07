@@ -14,7 +14,7 @@ The analysis considers two specific timeframes: the preceding 5 days and 20 days
 
 The metrics used for evaluating each model are the Mean Absolute Error (MAE), the Root Mean Square Error (RMSE), and the Mean Absolute Percentage Error (MAPE).
 
-The empi rical results of our study highlight:
+The empirical results of our study highlight:
 - Certain models exhibit improved performance with a reducednumber of lagged values, while others demonstrate a
   preference for a higher series of lagged values. We aim to explain this observation by going through the architecture of each model.
 - The superior predictive capabilities of advanced deep learning models, LSTM and TFT, in capturing the intricate dynamics
